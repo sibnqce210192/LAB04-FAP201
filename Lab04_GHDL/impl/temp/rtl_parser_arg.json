@@ -1,0 +1,23 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Library" : "work",
+   "Path" : "D:/FAP201/Lab04_GHDL/src/lab04.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/FAP201/Lab04_GHDL/src/lab04_tb.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/FAP201/Lab04_GHDL/impl/temp/rtl_parser.result",
+ "Top" : "lab04",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
